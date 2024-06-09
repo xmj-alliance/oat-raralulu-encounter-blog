@@ -12,7 +12,7 @@ Name: A Thief’s Redemption
 Universe: The Elder Scrolls
 
 ## Participants
-🔄: Interchangeable character
+> 🔄: Interchangeable character
 - Lucien Flavius (7o6hvo80k61LLOwWO25uCIrk3ABedoKpFUVSmt1DNGQ)
 - 🔄 Inigo (4QQm0pmU7VH1eehL8vY9FXBT6u8cRCFPEyoHXVxQU9U)
 
