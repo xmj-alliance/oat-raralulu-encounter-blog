@@ -16,9 +16,9 @@ Type: Hidden One's Hideout
 
                      Head Office
                           ↑
-  Residential area ← Dining Hall → Kitchen → Garden → Warehouse → Dock
+  Residential Area ← Dining Hall → Kitchen → Garden → Warehouse → Dock
         ↑                 ↑                     ↑
-  Residential area ←   Corridor    →    Training Ground → Armory
+  Residential Area ←   Corridor    →    Training Ground → Armory
                           ↑                    ↓
                        Entrance              Smithing
 
@@ -40,9 +40,17 @@ This long, narrow corridor is the backbone of the hideout, supported by sturdy w
 
 ### Residential Area
 The residential area consists of several cozy chambers, each equipped with simple beds and personal storage chests. Here, members of the Hidden Ones find respite from their missions, engaging in camaraderie and relaxation. The rooms are decorated with tapestries depicting the history of the Hidden Ones, reminding assassins of their purpose and shared legacy.
+
+A poorly hand-written letter can be found on the end table near a bed. It reveals the location of the Operation Plan. The letter reads:
+> ...unfresh air mixed with smoke and oil from kitchen.. hot and humid... not the Assassin life l have dreamed of ...
+> Bayek, weirdest person ...at dock... reads the plan loud, saying ...to not forget. Who are these crazy folks I have met here?"
+> ...could go HOOME! I miss...
+
 - **Description:**
   - Comprised of several rooms with basic amenities.
   - Purpose: Rest and recreation for Hidden Ones members.
+- Notable loots
+  - Venting letter
 
 ### Dining Hall
 The Dining Hall is the heart of the hideout, echoing the design of a grand Viking longhouse. Three long tables run parallel down the length of the hall, inviting camaraderie and shared meals. Above, chandeliers crafted from iron hang from the central beam, casting a warm glow over feasts and gatherings where plans are made and bonds are strengthened.
