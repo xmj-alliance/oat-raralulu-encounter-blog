@@ -15,11 +15,11 @@ Difficulty: ⭐️⭐️⭐️⭐️
 ## Participants
 > 🦹: Adversary 🔄: Interchangeable character 
 - 🦹 Eivor Vanrinsdottir (yCiaUYJSBSdfn4ouGJXNghaCTRTX63zYC3IK27nHLGI)
+- 🦹 Bayek (JrB_4Sxttkr1GDld9mwQE_dhheRaWLIr-Lg9SdHM5Mw)
 - 🔄🦹 Connor Kenway (U8OAk3olFmu8pcQgn9PcLkdTMrKNwd203ievygq4-sc)
 - 🔄🦹 Ezio Auditore (7l3IzgLagl3T-io7rTvQk7fvFcttMT7YVlO3VxpBGmw)
 - 🔄🦹 Arno Dorian (yaGF3qDFRBv4MtF3LskL7lWs_JVrkixI8i6kx1rLA70)
 - 🔄🦹 Basim (8cNHhgDLGwzslJwtvbAxV1zm7RBZzDlsGkEYj16bF_w)
-- 🔄🦹 Bayek (JrB_4Sxttkr1GDld9mwQE_dhheRaWLIr-Lg9SdHM5Mw)
 - 🔄🦹 Kassandra (CXPoU5TUZNKQrHXxEAtTQbTUUXOwagz8zU8Hs6DVYig)
 - 🔄 Player
 

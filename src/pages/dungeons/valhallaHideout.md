@@ -96,6 +96,7 @@ Outside the cave's confines, a small but flourishing garden thrives. This patch 
 - **Description:**
   - Outdoor area with a variety of plants and flowers.
   - Purpose: Provides a peaceful retreat and herbal resources.
+  - An altar sits in the middle of the garden
 
 ### Warehouse
 The warehouse is a vast space used to store the hideout's supplies and utilities. Shelves are stacked with crates of food, barrels of water, and other essential provisions. The atmosphere is cool and dry, preserving the goods for extended periods. It's a vital part of the hideout's infrastructure, ensuring the survival and efficiency of the brotherhood's operations.
