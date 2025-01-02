@@ -8,9 +8,10 @@ layout: /src/layouts/MarkdownPostLayout.astro
 ---
 
 # Valhalla Hideout
-Name: Valhalla Hideout
-Universe: Assassin's Creed
-Type: Hidden One's Hideout
+- Name: Valhalla Hideout
+- Universe: Assassin's Creed
+- Type: Hidden One's Hideout
+- Owner: Eivor Varinsdottir
 
 ## Map
 

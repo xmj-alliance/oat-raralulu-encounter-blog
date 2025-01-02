@@ -8,9 +8,9 @@ layout: /src/layouts/MarkdownPostLayout.astro
 ---
 
 # The Ebon Cave
-Name: The Ebon Cave
-Universe: The Elder Scrolls
-Type: Bandit hidehout
+- Name: The Ebon Cave
+- Universe: The Elder Scrolls
+- Type: Bandit hidehout
 
 ## Map
 

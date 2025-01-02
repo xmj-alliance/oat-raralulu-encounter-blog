@@ -8,9 +8,10 @@ layout: /src/layouts/MarkdownPostLayout.astro
 ---
 
 # Vault 998
-Name: Vault 998
-Universe: Fallout
-Type: Vault
+- Name: Vault 998
+- Universe: Fallout
+- Type: Vault
+- Owner: Valorad
 
 ## Map
 TBD
