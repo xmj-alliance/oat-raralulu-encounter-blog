@@ -67,3 +67,7 @@ Limitations:
 
 - Not available to Titanic-sized characters.
   - Alternatively, they can fit in a Power Nexus.
+
+## See Also
+- Demonic Blossom Altar
+- Demonic Grinding Altar
