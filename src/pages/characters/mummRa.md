@@ -1,0 +1,5 @@
+descr
+
+Mumm-Ra turned to the Ancient Spirits of Evil for a way to live forever. Mumm-Ra is seen in the series as pure evil, but not without compassion. He is now a sadistic, scheming, cunning, ruthless, callous, and remorseless character, who always seems able to anticipate betrayal from the mutants, and is, therefore, not hesitant to do the same. He is determined to rid Third-Earth of the ThunderCats, seeing them as the only threat to his power over Third Earth, even using the mutants of Plun-Darr who
+
+main antagonist of the 2020 animated series, ThunderCats Roar.  suprime leader of Third Earth. It is suggested that he has been on Third Earth for centuries.He overall has teleport and knowledge of magic. He also uses his cauldron to spy and telleport, He is a ruthless man, very power hungry and mean. However, he isn't below giving out a compliment ,has big interest in Lion-O's step-sister Antonia

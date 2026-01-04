@@ -55,28 +55,28 @@ The greaves have detailed markings describing an arena scene
 These Mana-powered greaves grant him special abilities.
 - Kinetic barrier
  - The greaves block or dampen all significant incoming movements toward the lower limbs, providing solid defense in combat
- - However, the creatures or objects being stepped on by Bayek are whitelisted
+ - However, the creatures or objects do not trigger the barrier when being grabbed by Bayek's hand or stepped on under Bayek's foot.
 - Super jump
  - Bayek can jump very high into the air. E.g., directly jump up to the horizontal beams in the hall to avoid detection, or take the vantage point for shooting arrows
 - Power kick
  - With focused energy on the greaves, the power kick launched by Bayek can easily send a Roman soldier equipped with full-body heavy armor and a tower shield flying.
  - Deals devastating damage
 
-To provide energy source for his Mana-powered items, Bayek has implanted a Manacore (a power bank), at his lower abdomen, covered under his Medjay garment.
+To provide energy source for his Mana-powered items, Bayek has implanted a Manacore (a power bank), in his lower abdomen, covered under his Medjay garment.
 
 His Manacore looks like a metallic circle inlayed onto a cross-shaped base, tightly integrated into the skin. Inside the circle, a hemisphere-shaped orb is fixed, giving out dim white light.
 
 The Manacore creates a soft white layer of energy crystal fabric, wrapping Bayek's lower body, which serves as his underwear.
 
-The Manacore outputs energy to the Hicklis Greaves, supporting their powerful abilities. When under intense output, the Manacore releases significant amount of heat.
+The Manacore outputs energy to the Hicklis Greaves, supporting their powerful abilities. When under intense output, the Manacore releases a significant amount of heat.
 
 ## Energy resourcing
 
 Bayek often participates in gladiator tournaments. Hicklis Greaves and his powerful Manacore are prizes of his past victories.
 
-Bayek owns a Horus Temple in Siwa, inherited from his family. Bayek is the chosen of Horus. In fact, Bayek and Horus have a secret and intimate relationship.
+Bayek owns a Horus Temple in Siwa, inherited from his family. Bayek is the chosen of Horus. In fact, Bayek and Horus have a secret, romantic, and very intimate relationship.
 
-Certain followers are selected for a ceremony. When a follower lowers and worships Horus, Bayek comes close, sitting in front of or at the back of them. Bayek reaches out his arms, touching them with both hands, offering Horus' blessing. In the process, some energy is extracted from the follower to charge the Manacore.
+Certain followers are selected for a ceremony. When a follower lowers and worships Horus, Bayek comes close, sitting in front of or at the back of them. Bayek reaches out his arms, touching them with both hands, offering Horus' blessing. In the process, some energy is extracted from the followers to charge the Manacore.
 
 ## Important Notes
 - Assassins guild does not exist yet. Hidden Ones are Precursors to The Assassins.
