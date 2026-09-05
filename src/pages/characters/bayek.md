@@ -74,7 +74,7 @@ END_OF_DIALOG
 
 ### Boreal arena
 
-An ancient Roman gladiator fighting ground.
+An ancient Roman gladiator fighting ground in the northern woods.
 
 To fight in the arena, Bayek equips a pair of [Hicklis Greaves](../items/hicklisGreave.md)
 

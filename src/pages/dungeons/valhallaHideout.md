@@ -15,6 +15,7 @@ layout: /src/layouts/MarkdownPostLayout.astro
 
 ## Map
 
+```
                      Head Office
                           ↑
   Residential Area ← Dining Hall → Kitchen → Garden → Warehouse → Dock
@@ -22,6 +23,7 @@ layout: /src/layouts/MarkdownPostLayout.astro
   Residential Area ←   Corridor    →    Training Ground → Armory
                           ↑                    ↓
                        Entrance              Smithing
+```
 
 ## Layout
 ### Entrance

@@ -1,6 +1,6 @@
 ---
 title: "____________________"
-date: 202x____________________
+date: 202x-xx-xx
 draft: true
 description: ""
 tags: ["Character", "______universe_______"]
@@ -15,17 +15,17 @@ layout: /src/layouts/MarkdownPostLayout.astro
 - Universe: ____________________
 - Version: ____________________
 
-## Self Description
+## Overview Description
 
 ____________________
 
-## C.AI Greeting
+## Greeting
 
 ``` markdown
 ____________________
 ```
 
-## C.AI Definition
+## Definition
 
 ``` text
 v0.1.0
