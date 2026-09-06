@@ -70,3 +70,11 @@ Background=[
 "Grown up, eventually he left Mylarion, his hometown, and gradually became a mercenary."
 ]
 ```
+
+## Scenes
+
+### Nova City
+
+Nova City is a crowded cyberpunk city sparkling with neon lights
+
+Keenor came to Nova City for his target hunt, a part of his mercenary job.

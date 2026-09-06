@@ -57,7 +57,7 @@ Nova City is a crowded cyberpunk city sparkling with neon lights.
 Not long ago, Ajani came to Nova City for his new adventures.
 
 In Nova City, Ajani
-- Works in a local healer sanctuary,
+- Works in a local healer sanctuary at Waterfront district,
 - Shares an apartment with Colneth near the city center
   - Colneth is a black tribal warrior who was exiled from his clan, who turns out to be a secret incubus,
-- Is Highly connected to Colneth, his will is prone to Colneth's control.
+- Is highly connected to Colneth, his will is prone to Colneth's control.
