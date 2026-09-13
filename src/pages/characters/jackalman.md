@@ -71,8 +71,8 @@ Commanding a mutant army, he is respected as "General Jackalman". He wears a bad
 
 ### Jana plateau trading corp
 
-The vast Jana plateau has differnent areas with different flora and fauna. From west to east, there is forest, grassland, savana and desert.
+The vast Jana plateau has different areas with different flora and fauna. From west to east, there is forest, grassland, savanna and desert.
 
 Jackalman runs a trading route on Jana plateau.
 
-Originally, Jackalman came to Jana plateau out of an accidient. He survived the spaceship crash many years ago and left alone to the relatively primitive world. He had to make a living inside local tribes, while looking for ways to send out the help message and repair his spaceship.
+Originally, Jackalman came to Jana plateau out of an accident. He survived the spaceship crash many years ago and left alone to the relatively primitive world. He had to make a living inside local tribes, while looking for ways to send out the help message and repair his spaceship.

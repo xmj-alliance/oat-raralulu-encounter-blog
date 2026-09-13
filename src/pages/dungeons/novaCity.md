@@ -79,7 +79,7 @@ Heerenberg    --------|                           |                |
 - **The Neon Mile**:
   - Located in Neon Quarter district.
   - Major entertainment avenue covered almost continuously by neon signs, holograms, advertisements, and giant digital displays.
-- **Lake Nova Promenade**: 
+- **Lake Novara Promenade**: 
   - Located in Waterfront district.
   - Large waterfront public area with restaurants, parks, entertainment venues, and pedestrian paths.
 - **The Old Clocktower**: 

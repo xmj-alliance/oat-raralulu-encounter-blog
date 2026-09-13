@@ -131,3 +131,4 @@ dist
 
 # Site
 .DS_Store
+**/_drafts/**
